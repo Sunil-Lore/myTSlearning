@@ -1,2 +1,3 @@
-var age = 30;
-console.log("My age is ".concat(age, "."));
+"use strict";
+const age = 30;
+console.log(`My age is ${age}.`);
