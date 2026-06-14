@@ -6,4 +6,4 @@ let isExcited = true;
 console.log(message);
 console.log("Count:", count);
 console.log("Is learning TypeScript?", isLearning);
-console.log("Excited? ", isExcited);
+console.log("Excited? ");
